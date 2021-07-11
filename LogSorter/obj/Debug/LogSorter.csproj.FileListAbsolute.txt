@@ -1,0 +1,10 @@
+C:\Users\gulko\source\repos\LogSorter\LogSorter\bin\Debug\LogSorter.exe.config
+C:\Users\gulko\source\repos\LogSorter\LogSorter\bin\Debug\LogSorter.exe
+C:\Users\gulko\source\repos\LogSorter\LogSorter\bin\Debug\LogSorter.pdb
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.csproj.AssemblyReference.cache
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.Form1.resources
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.Properties.Resources.resources
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.csproj.GenerateResource.cache
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.csproj.CoreCompileInputs.cache
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.exe
+C:\Users\gulko\source\repos\LogSorter\LogSorter\obj\Debug\LogSorter.pdb

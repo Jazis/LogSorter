@@ -1,0 +1,8 @@
+steamcommunity.com	FALSE	/	FALSE	1654638331	browserid	2268105598176231315
+store.steampowered.com	FALSE	/	FALSE	1654638320	browserid	2479774780566945225
+.steamcommunity.com	TRUE	/	FALSE	1686445065	_ga	GA1.2.1311329869.1623373065
+steamcommunity.com	FALSE	/	FALSE	1654909051	timezoneOffset	36000,0
+help.steampowered.com	FALSE	/	FALSE	1656057407	timezoneOffset	36000,0
+.steampowered.com	TRUE	/	FALSE	1688099546	_ga	GA1.2.1566429915.1624521344
+store.steampowered.com	FALSE	/	FALSE	1632803528	recentapps	%7B%221625450%22%3A1625027529%7D
+store.steampowered.com	FALSE	/	FALSE	1656563545	timezoneOffset	36000,0

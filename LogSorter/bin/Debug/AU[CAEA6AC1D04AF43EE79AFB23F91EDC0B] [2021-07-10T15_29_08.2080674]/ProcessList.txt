@@ -1,0 +1,136 @@
+***********************************************
+*                                             *
+*   ____  _____ ____  _     ___ _   _ _____   *
+*  |  _ \| ____|  _ \| |   |_ _| \ | | ____|  *
+*  | |_) |  _| | | | | |    | ||  \| |  _|    *
+*  |  _ <| |___| |_| | |___ | || |\  | |___   *
+*  |_| \_|_____|____/|_____|___|_| \_|_____|  *
+*                                             *
+*    Telegram: https://t.me/REDLINESUPPORT    *
+***********************************************
+
+ID: 924, Name: csrss.exe, CommandLine: 
+===============
+ID: 720, Name: winlogon.exe, CommandLine: 
+===============
+ID: 1104, Name: fontdrvhost.exe, CommandLine: 
+===============
+ID: 1316, Name: dwm.exe, CommandLine: 
+===============
+ID: 2412, Name: NVDisplay.Container.exe, CommandLine: 
+===============
+ID: 4980, Name: rundll32.exe, CommandLine: 
+===============
+ID: 7044, Name: nvcontainer.exe, CommandLine: "C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe" -f "C:\ProgramData\NVIDIA\NvContainerUser%d.log" -d "C:\Program Files\NVIDIA Corporation\NvContainer\plugins\User" -r -l 3 -p 30000 -st "C:\Program Files\NVIDIA Corporation\NvContainer\NvContainerTelemetryApi.dll" -c
+===============
+ID: 7056, Name: sihost.exe, CommandLine: sihost.exe
+===============
+ID: 7088, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+===============
+ID: 7124, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+===============
+ID: 6176, Name: taskhostw.exe, CommandLine: taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+===============
+ID: 5564, Name: ctfmon.exe, CommandLine: 
+===============
+ID: 7432, Name: explorer.exe, CommandLine: C:\WINDOWS\Explorer.EXE
+===============
+ID: 7896, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+===============
+ID: 8260, Name: NVIDIA Web Helper.exe, CommandLine: "C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe" index.js
+===============
+ID: 8724, Name: conhost.exe, CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 8864, Name: StartMenuExperienceHost.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+===============
+ID: 8228, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8924, Name: SearchApp.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+===============
+ID: 9268, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 9536, Name: YourPhone.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21052.122.0_x64__8wekyb3d8bbwe\YourPhone.exe" -ServerName:App.AppX9yct9q388jvt4h7y0gn06smzkxcsnt8m.mca
+===============
+ID: 9832, Name: SettingSyncHost.exe, CommandLine: C:\WINDOWS\system32\SettingSyncHost.exe -Embedding
+===============
+ID: 3168, Name: TextInputHost.exe, CommandLine: "C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca
+===============
+ID: 10276, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+===============
+ID: 10812, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 10988, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8788, Name: SecurityHealthSystray.exe, CommandLine: "C:\Windows\System32\SecurityHealthSystray.exe" 
+===============
+ID: 6280, Name: RAVCpl64.exe, CommandLine: "C:\Program Files\Realtek\Audio\HDA\RAVCpl64.exe" -s
+===============
+ID: 9548, Name: AVGUI.exe, CommandLine: AVGUI.exe /nogui
+===============
+ID: 10368, Name: Cortana.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_3.2106.14307.0_x64__8wekyb3d8bbwe\Cortana.exe" -ServerName:App.AppX2y379sjp88wjq1y80217mddj3fargf2y.mca
+===============
+ID: 11668, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 11756, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k AarSvcGroup -p -s AarSvc
+===============
+ID: 10456, Name: SearchApp.exe, CommandLine: "C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca
+===============
+ID: 4792, Name: Battle.net.exe, CommandLine: D:/Battle.net/Battle.net.exe --game=odin "--gamepath=H:\Call of Duty Modern Warfare"
+===============
+ID: 11972, Name: AVGUI.exe, CommandLine: "C:\Program Files\AVG\Antivirus\AVGUI.exe" --type=gpu-process --field-trial-handle=6836,10655858573010026506,5519860516208233623,131072 --disable-features=OutOfBlinkCors --no-sandbox --disable-gpu-driver-bug-workarounds --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (21.5.3185)" --lang=en-AU --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --gpu-preferences=SAAAAAAAAADgAABwAAAAAAAAAAAAAAAAAABgAAAAAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAHgAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAAIAAAAAAAAAAgAAAAAAAAA --use-gl=swiftshader-webgl --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --mojo-platform-channel-handle=7808 /prefetch:2
+===============
+ID: 5812, Name: AVGUI.exe, CommandLine: "C:\Program Files\AVG\Antivirus\AVGUI.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=6836,10655858573010026506,5519860516208233623,131072 --disable-features=OutOfBlinkCors --lang=en-GB --service-sandbox-type=utility --no-sandbox --force-wave-audio --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (21.5.3185)" --lang=en-AU --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --mojo-platform-channel-handle=8444 /prefetch:8
+===============
+ID: 5572, Name: AVGUI.exe, CommandLine: "C:\Program Files\AVG\Antivirus\AVGUI.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=6836,10655858573010026506,5519860516208233623,131072 --disable-features=OutOfBlinkCors --lang=en-GB --service-sandbox-type=none --no-sandbox --force-wave-audio --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (21.5.3185)" --lang=en-AU --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --mojo-platform-channel-handle=8488 /prefetch:8
+===============
+ID: 2632, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k UnistackSvcGroup
+===============
+ID: 5816, Name: Battle.net.exe, CommandLine: "D:\Battle.net\Battle.net.exe" --type=gpu-process --field-trial-handle=3088,2968298051525296271,5113528808421245352,131072 --enable-features=CastMediaRouteProvider --disable-features=HardwareMediaKeyHandling,OutOfBlinkCors --no-sandbox --log-file="C:\Users\jimmy\AppData\Local\Battle.net\Logs\libcef-20210710T152317.471913.log" --log-severity=error --product-version="Battle.net/2.2.1.12983 (retail) Chrome/83.0.4103.106" --lang=en-US --watch-browser-pid=4792 --gpu-preferences=MAAAAAAAAADgAAAwAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAAKAAAAAQAAAAgAAAAAAAAACgAAAAAAAAAMAAAAAAAAAA4AAAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAYAAAA= --log-file="C:\Users\jimmy\AppData\Local\Battle.net\Logs\libcef-20210710T152317.471913.log" --mojo-platform-channel-handle=3096 /prefetch:2 --battle-net-helper=Battle.net.12983
+===============
+ID: 12144, Name: Battle.net.exe, CommandLine: "D:\Battle.net\Battle.net.exe" --type=utility --field-trial-handle=3088,2968298051525296271,5113528808421245352,131072 --enable-features=CastMediaRouteProvider --disable-features=HardwareMediaKeyHandling,OutOfBlinkCors --lang=en-US --service-sandbox-type=network --no-sandbox --log-file="C:\Users\jimmy\AppData\Local\Battle.net\Logs\libcef-20210710T152317.471913.log" --log-severity=error --product-version="Battle.net/2.2.1.12983 (retail) Chrome/83.0.4103.106" --lang=en-US --watch-browser-pid=4792 --log-file="C:\Users\jimmy\AppData\Local\Battle.net\Logs\libcef-20210710T152317.471913.log" --mojo-platform-channel-handle=3840 /prefetch:8 --battle-net-helper=Battle.net.12983
+===============
+ID: 5936, Name: Battle.net.exe, CommandLine: "D:\Battle.net\Battle.net.exe" --type=renderer --no-sandbox --log-file="C:\Users\jimmy\AppData\Local\Battle.net\Logs\libcef-20210710T152317.471913.log" --field-trial-handle=3088,2968298051525296271,5113528808421245352,131072 --enable-features=CastMediaRouteProvider --disable-features=HardwareMediaKeyHandling,OutOfBlinkCors --lang=en-US --log-file="C:\Users\jimmy\AppData\Local\Battle.net\Logs\libcef-20210710T152317.471913.log" --log-severity=error --product-version="Battle.net/2.2.1.12983 (retail) Chrome/83.0.4103.106" --disable-spell-checking --uncaught-exception-stack-size=10 --watch-browser-pid=4792 --device-scale-factor=1 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --mojo-platform-channel-handle=4240 /prefetch:1 --battle-net-helper=Battle.net.12983
+===============
+ID: 6944, Name: Agent.exe, CommandLine: "C:\ProgramData\Battle.net\Agent\Agent.7380\Agent.exe" --session=3087924852831976409
+===============
+ID: 12116, Name: conhost.exe, CommandLine: \??\C:\WINDOWS\system32\conhost.exe 0x4
+===============
+ID: 7864, Name: dllhost.exe, CommandLine: C:\WINDOWS\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+===============
+ID: 2756, Name: GameBarPresenceWriter.exe, CommandLine: "C:\Windows\System32\GameBarPresenceWriter.exe" -ServerName:Windows.Gaming.GameBar.Internal.PresenceWriterServer
+===============
+ID: 5152, Name: svchost.exe, CommandLine: C:\WINDOWS\system32\svchost.exe -k BcastDVRUserService -s BcastDVRUserService
+===============
+ID: 5760, Name: GameBar.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.721.6282.0_x64__8wekyb3d8bbwe\GameBar.exe" -ServerName:App.AppXbdkk0yrkwpcgeaem8zk81k8py1eaahny.mca
+===============
+ID: 8596, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 5332, Name: GameBarFTServer.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.721.6282.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe" -Embedding
+===============
+ID: 6208, Name: ModernWarfare.exe, CommandLine: "H:\Call of Duty Modern Warfare\ModernWarfare.exe" -D3D11 -uid odin
+===============
+ID: 11956, Name: SystemSettings.exe, CommandLine: "C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+===============
+ID: 11680, Name: ApplicationFrameHost.exe, CommandLine: C:\WINDOWS\system32\ApplicationFrameHost.exe -Embedding
+===============
+ID: 7388, Name: UserOOBEBroker.exe, CommandLine: C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+===============
+ID: 4712, Name: Video.UI.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.21061.10121.0_x64__8wekyb3d8bbwe\Video.UI.exe" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca
+===============
+ID: 10608, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 8300, Name: WinStore.App.exe, CommandLine: "C:\Program Files\WindowsApps\Microsoft.WindowsStore_12104.1001.1.0_x64__8wekyb3d8bbwe\WinStore.App.exe" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca
+===============
+ID: 8548, Name: RuntimeBroker.exe, CommandLine: C:\Windows\System32\RuntimeBroker.exe -Embedding
+===============
+ID: 11176, Name: backgroundTaskHost.exe, CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:CortanaUI.AppX3bn25b6f886wmg6twh46972vprk9tnbf.mca
+===============
+ID: 6960, Name: backgroundTaskHost.exe, CommandLine: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:ShellFeedsUI.AppXnj65k2d1a1rnztt2t2nng5ctmk3e76pn.mca
+===============
+ID: 4104, Name: smartscreen.exe, CommandLine: C:\Windows\System32\smartscreen.exe -Embedding
+===============
+ID: 11100, Name: AVGUI.exe, CommandLine: "C:\Program Files\AVG\Antivirus\AVGUI.exe" --type=renderer --no-sandbox --autoplay-policy=no-user-gesture-required --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --field-trial-handle=6836,10655858573010026506,5519860516208233623,131072 --disable-features=OutOfBlinkCors --disable-gpu-compositing --lang=en-GB --log-file="C:\Users\jimmy\AppData\Roaming\AVG\Antivirus\log\cef_log.txt" --log-severity=error --user-agent="Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.3.3626.1895 Safari/537.36 Avastium (21.5.3185)" --proxy-auto-detect --disable-webaudio --force-wave-audio --disable-software-rasterizer --no-sandbox --blacklist-accelerated-compositing --disable-accelerated-2d-canvas --disable-accelerated-compositing --disable-accelerated-layers --disable-accelerated-video-decode --blacklist-webgl --disable-bundled-ppapi-flash --disable-flash-3d --enable-aggressive-domstorage-flushing --enable-media-stream --allow-file-access-from-files=1 --pack_loading_disabled=1 --device-scale-factor=1.5 --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=10 --mojo-platform-channel-handle=10336 /prefetch:1
+===============
+ID: 12808, Name: VlstrtoaQ5VNWwvg.exe, CommandLine: 
+===============
+ID: 12428, Name: VlstrtoaQ5VNWwvg.exe, CommandLine: C:\Users\jimmy\OneDrive\Desktop\VlstrtoaQ5VNWwvg.exe
